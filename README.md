@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grexgrub/rikza
+- 👋 Hi, I’m @grexgrub
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning web development
 
